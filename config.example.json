@@ -1,0 +1,55 @@
+{
+    "token":                    "DISCORD_BOT_TOKEN",
+    "prefix":                   "~",
+    "name":                     "SimpleBot",
+    "adminRoleID":              "DISCORD_ADMIN_ROLE_ID",
+    "ownerID":                  "DISCORD_OWNER_USER_ID",
+    "hexColour":                "#6f20e2",
+    "localisation":{
+        "locale":               "en_GB",
+        "timezone":             "Europe/London",
+        "UTCOffset":            0,
+        "coordinates":          "51.5074,-0.1278"
+    },
+    "youtube":{
+        "apiKey":               "YOUTUBE_API_KEY"
+    },
+    "reddit":{
+        "useragent":            "SimpleBot/0.1.0 (NodeJS; Expressjs; Discord.js) Discord Bot",
+        "clientID":             "REDDIT_CLIENT_ID",
+        "clientSecret":         "REDDIT_CLIENT_SECRET",
+        "username":             "REDDIT_USERNAME",
+        "password":             "REDDIT_PASSWORD"
+    },
+    "mashape":{
+        "jeannie":              "JEANNIE_API_KEY"
+    },
+    "myAnimeList":{
+        "username":             "MAL_USERNAME",
+        "password":             "MAL_PASSWORD"
+    },
+    "danbooru":{
+        "login":                "DB_USERNAME",
+        "apiKey":               "DB_API_KEY"
+    },
+    "gelbooru":{
+        "login":                "GB_USERNAME",
+        "apiKey":               "GB_API_KEY"
+    },
+    "r34":{
+        "login":                "34_USERNAME",
+        "apiKey":               "34_API_KEY"
+    },
+    "pubg":{
+        "apiKey":               "PUBG_TRACKER_API_KEY"
+    },
+    "hearthstone":{
+        "apiKey":               "OMGVAMP_HS_API_KEY"
+    },
+    "discordbots":{
+        "token":                "DISCORDBOTS.ORG_TOKEN"
+    },
+    "radio": [
+        {"title":"Odyssey Radio",            "genre":"Anime",                "url":"https://listen.moe/stream",                "tuneinID": "s277012"}
+    ]
+}
